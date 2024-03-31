@@ -1,0 +1,13 @@
+/* .nav-links {
+    display: none;
+    position: absolute;
+    top: 9%; 
+    
+} */
+
+@media (min-width: 768px) {
+    .nav-links {
+        display: flex !important;
+    }
+}
+
